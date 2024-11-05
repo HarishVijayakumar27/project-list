@@ -1,0 +1,24 @@
+
+div {
+    width: auto;
+    text-align: center;
+    font-family: monospace;
+}
+
+div table {
+    border: 1px solid black;
+    margin: auto;
+    border-spacing: 10px 10px;
+}
+div table th  {
+    border: 4px solid black;
+    background-color: lightblue;
+    padding: 5px;
+    font-size: larger;
+}
+
+div table td {
+    background-color: white;
+    font-size: large;
+}
+
